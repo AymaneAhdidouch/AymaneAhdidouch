@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AymaneAhdidouch
 - 👀 I’m interested in python and Javascript
-- 🌱 I’m currently learning python, php and JavaScript
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me aymanahdidouch9@gmail.com
 
